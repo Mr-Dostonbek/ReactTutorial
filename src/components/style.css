@@ -1,0 +1,24 @@
+.firstText{
+    color: red;
+}
+
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    display: block;
+    border: none;
+    outline: none;
+    padding: 8px 16px;
+    color: crimson;
+    background-color: cyan;
+    font-weight: 700;
+    margin: 50px;
+}
+
+.reset{
+    margin: 0 auto;
+}
